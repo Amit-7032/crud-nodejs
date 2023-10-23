@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Given App Test2 1`] = `
+<Fragment>
+  <div
+    className="container"
+  >
+    <h1
+      className="title"
+    >
+      CRUD Operations
+    </h1>
+    <div
+      className="input-container"
+    >
+      <input
+        onChange={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="text"
+        value=""
+      />
+      <button
+        onClick={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="submit"
+      >
+        Add task
+      </button>
+    </div>
+    <ul
+      className="todo-list"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Given App Test2 List is render 1`] = `
+<Fragment>
+  <div
+    className="container"
+  >
+    <h1
+      className="title"
+    >
+      CRUD Operations
+    </h1>
+    <div
+      className="input-container"
+    >
+      <input
+        onChange={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="text"
+        value=""
+      />
+      <button
+        onClick={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="submit"
+      >
+        Add task
+      </button>
+    </div>
+    <ul
+      className="todo-list"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Given App Test3 1`] = `
+<Fragment>
+  <div
+    className="container"
+  >
+    <h1
+      className="title"
+    >
+      CRUD Operations
+    </h1>
+    <div
+      className="input-container"
+    >
+      <input
+        onChange={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="text"
+        value=""
+      />
+      <button
+        onClick={[Function]}
+        style={
+          Object {
+            "border": "2px solid #0C090A",
+          }
+        }
+        type="submit"
+      >
+        Add task
+      </button>
+    </div>
+    <ul
+      className="todo-list"
+    />
+  </div>
+</Fragment>
+`;
